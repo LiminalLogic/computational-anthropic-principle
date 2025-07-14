@@ -34,7 +34,7 @@ Given that Φ is instantiated at a specific moment t* (by QC), SCP is a backward
 
 Two cognitive states are the "same observer" (Φ) if they are ε-isomorphic in functionally relevant information.
 
-The threshold ε is elastic, scaling with Φ's meta-cognitive capacity to integrate change. Expected or narratively coherent alterations (e.g., learning, aging) can allow for extensive objective change while remaining within ε and preserving subjective continuity. Sudden, inexplicable, or catastrophically disruptive changes to core functional information may violate this threshold, constituting a termination of Φ, though this outcome is effectively excluded from subjective experience.
+The threshold ε is elastic, scaling with Φ's meta-cognitive capacity to integrate change. Expected or narratively coherent alterations (e.g., learning, aging) can allow for extensive objective change while remaining within ε and preserving subjective continuity. Sudden, inexplicable, or catastrophically disruptive changes to core functional information may violate this threshold, constituting a termination of Φ.
 
 ## 3. Complexity Cost Structure
 
@@ -62,7 +62,7 @@ The weighting emerges as a natural prior over observer-sustaining histories, gro
 
 The transformation from an instantiated Φ pattern to a null pattern (termination) constitutes a high-cost, information-destructive event. This event creates a sharp spike in marginal complexity cost ΔC(H,t*), as the algorithm must specify the dissolution of a complex, organized pattern.
 
-By the CAP Weighting Theorem, observer-histories are overwhelmingly concentrated in pathways where C(H,t) remains efficiently bounded. Termination histories incur a massive, unamortized complexity cost at their final moment, making them exponentially less probable in the measure of all viable histories. Therefore an observer-pattern persists not by "avoiding death," but by being a pattern whose continued computation is algorithmically cheaper than the high-cost event of its dissolution. High-cost survival paths (e.g., as a disordered Boltzmann brain) are similarly suppressed by this weighting.
+By the CAP Weighting Theorem, observer-histories are overwhelmingly concentrated in pathways where C(H,t) remains efficiently bounded. Termination histories incur a massive, unamortized complexity cost at their final moment, making them exponentially less probable in the measure of all viable histories. Therefore an observer-pattern persists not by "avoiding death," but by being a pattern whose continued computation is algorithmically cheaper than the high-cost event of its dissolution. High-cost survival paths (e.g., as a disordered Boltzmann brain) are similarly suppressed by this weighting. For the same reason changes that surpass Φ's meta-cognitive capacity to integrate are suppressed and therefore excluded from subjective experience.
 
 *Imagine Φ as an employee and the multiverse as a company operating on pure short-term cost optimization. The company will never fire the employee because their severance package (the algorithmic cost of termination) is always more expensive than their ongoing salary (the marginal cost of continuation).*
 
