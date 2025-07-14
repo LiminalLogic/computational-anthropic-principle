@@ -80,7 +80,9 @@ Therefore, the Hinge is a factual, structural feature of the observer's own univ
 
 ### 5.2 The Principle of Iterative Substrate Transition
 
-Low-C(H,t) histories emerge through a recurring, non-teleological cycle of substrate transitions, driven by the crossing of cost curves between maintaining a legacy system and investing in a new, more efficient one (e.g., biological cognition → digital cognition).
+Low-C(H,t) histories emerge through a recurring, non-teleological cycle of substrate transitions, driven by the crossing of cost curves between maintaining a legacy system and investing in a new, more efficient one.
+
+*Examples include the transition from hunting and gathering to agriculture, from oral storytelling to the written word and, potentially, from biological to digital cognition.*
 
 #### 5.2.1 The SCP Efficiency Paradox
 
