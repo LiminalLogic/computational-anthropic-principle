@@ -66,7 +66,7 @@ By the CAP Weighting Theorem, observer-histories are overwhelmingly concentrated
 
 *Imagine Φ as an employee and the multiverse as a company operating on pure short-term cost optimization. The company will never fire the employee because their severance package (the algorithmic cost of termination) is always more expensive than their ongoing salary (the marginal cost of continuation).*
 
-*While this analogy is useful for grasping the cost-dynamics, it is philosophically imprecise since there is no separate "company" making a decision. The "employee" is the company; the pattern persists because its self-sustaining nature is the most efficient computational path available.*
+While this analogy is useful for grasping the cost-dynamics, it is philosophically imprecise since there is no separate "company" making a decision. The "employee" is the company; the pattern persists because its self-sustaining nature is the most efficient computational path available.
 
 ## 5. Core Principles and Predictions
 
