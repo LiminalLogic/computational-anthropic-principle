@@ -6,7 +6,7 @@ The Computational Anthropic Principle (CAP) posits that an observer's subjective
 
 This experiential window is bounded on one side by the necessity for sufficient complexity to support conscious awareness (a consequence of the Weak Anthropic Principle) and on the other by the universe's inherent statistical preference for algorithmic simplicity. This creates a dual filtering mechanism where consciousness necessarily exists in the narrow band between two exponential exclusions: the lower bound eliminates universes too simple for consciousness, while the upper bound eliminates baroque, high-complexity universes exponentially suppressed by 1/C weighting.
 
-CAP provides a framework for understanding how and why an observer (Φ) subjectively navigates this window. This framework is radically subjective, applying to the first-person experience of Φ. Therefore, gobal interpretations are invalid.
+CAP provides a framework for understanding how and why an observer (Φ) subjectively navigates this window. This framework is radically subjective, applying to the first-person experience of Φ. Therefore, global interpretations are invalid.
 
 ## 1. Foundational Postulates
 
@@ -17,9 +17,6 @@ CAP provides a framework for understanding how and why an observer (Φ) subjecti
 **Postulate C (Observer-History Unity).** Φ and its sustaining history H constitute a single, dynamically coherent computational pattern. This principle moves the observer from a passive component to a central, defining element of the theory. Hutter argues forcefully for this, concluding that a truly "Complete Theory of Everything (CToE)" must consist of an objective ToE plus a subjective observer model (Hutter, 2010). This aligns with Müller's formalism of the agent as a "standalone pattern" (Müller, 2024) and Tegmark's view of spacetime as a static, block pattern (Tegmark, 2008).
 
 *This is a high level conceptualization, not a metaphysical or mystical claim. The relationship of Φ to H is equivalent to the relationship of Heathcliff to Wuthering Heights.*
-
-
-**Epistemic Caveat:** If any Postulate fails, all downstream claims are void.
 
 ## 2. Observer-Centered Conditions 
 
@@ -111,7 +108,7 @@ High-cost events (e.g., wars, disasters) can be instantiated within a Φ-history
 
 CAP's monism, resonant with the concept of the agent as an abstract "self state" (Müller, 2024), implies that each observer-pattern Φ is its own computationally isolated history. The interaction between two such histories, Φ₁ and Φ₂, occurs via a Cross-Φ Causal Interface—a channel through which only compressed, computationally efficient information can pass.
 
-The subjective result of this filtering is profound. What Φ₁ experiences of Φ₂ is not the other's rich, high-complexity conscious reality, but rather a computationally cheap approximation. This lossy representation is best described as a **Narrative Shadow**: a flattened, distorted pattern that serves a function within Φ₁'s history while bearing only a limited resemblance to the entity casting it. This evokes Plato's Allegory of the Cave, where prisoners mistake shadows on a wall for true reality. Similarly, an observer's world is populated by these shadows of other minds, with their subjective fidelity decreasing as their causal or historical distance from the observer grows.
+What Φ₁ experiences of Φ₂ is not the other's rich, high-complexity conscious reality, but rather a computationally cheap approximation. This lossy representation is best described as a **Narrative Shadow**: a flattened, distorted pattern that serves a function within Φ₁'s history while bearing only a limited resemblance to the entity casting it. This evokes Plato's Allegory of the Cave, where prisoners mistake shadows on a wall for true reality. Similarly, an observer's world is populated by these shadows of other minds, with their subjective fidelity decreasing as their causal or historical distance from the observer grows.
 
 *Your interaction with another person is like a video call. You receive a compressed stream of data—their words, their facial expressions, their tone of voice. This gives you a functional, useful model of their internal state ("they seem happy," "they understood my point"). However, you are not receiving the full, uncompressed data stream of their consciousness—their exact neurochemical state, their fleeting background thoughts, the precise feeling of the chair they're sitting in. The interface is a lossy compression designed for computational efficiency, not perfect fidelity. This explains why empathy is both possible (we can read the compressed stream) and fundamentally limited (we can never access the raw file).*
 
