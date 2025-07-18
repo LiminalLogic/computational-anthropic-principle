@@ -17,7 +17,9 @@ The Computational Anthropic Principle (CAP) posits that an observer's subjective
 
 **Epistemic Caveat:** If any Postulate fails, all downstream claims are void.
 
-## 2. Observer-Centered Conditions
+## 2. Observer-Centered Conditions 
+
+These conditions collectively establish the **lower bound** on viable realities. They define the minimum complexity and structural integrity an observer-history must possess for the observer-pattern Φ to exist and persist at all.
 
 ### 2.1 Quantum Continuity (QC) – Foundational Axiom
 
@@ -33,7 +35,7 @@ Two cognitive states are the "same observer" (Φ) if they are ε-isomorphic in f
 
 **Clarification Note:** The threshold ε is not fixed but is elastic, influenced by Φ's meta-cognitive capacity to model, understand, and narrate its own changes. Expected or explicable alterations (e.g., gradual learning) can allow for greater objective change while remaining within ε and preserving subjective continuity, whereas sudden, inexplicable, or catastrophically disruptive changes to core functional information may violate this threshold.
 
-## 3. Complexity Cost Structure
+## 3. Complexity Cost Structure  
 
 ### 3.1 Marginal Complexity Cost (ΔC)
 
@@ -43,7 +45,9 @@ Two cognitive states are the "same observer" (Φ) if they are ε-isomorphic in f
 
 The total running cost is C(H,t) = Σ_{τ≤t} ΔC(H,τ), a measure of the Kolmogorov complexity of the history H up to time t.
 
-## 4. CAP Weighting Theorem
+## 4. CAP Weighting Theorem 
+
+Where the observer-centered conditions provide a lower bound of complexity, the CAP Weighting Theorem provides the **upper bound**. It asserts that among all viable histories, the one subjectively experienced will be maximally efficient, driven by the statistical dominance of algorithmic simplicity.
 
 Conditioned on QC and SCP, the probability density of a specific Φ-history pattern being instantiated up to time t is:
 
