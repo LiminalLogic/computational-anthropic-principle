@@ -2,7 +2,11 @@
 
 ## Preamble: The Subjective Window of Existence
 
-The Computational Anthropic Principle (CAP) posits that an observer's subjective experience unfolds within a "Goldilocks Zone" of reality. This experiential window is bounded on one side by the necessity for sufficient complexity to support conscious awareness (a consequence of the Weak Anthropic Principle) and on the other by the universe's inherent statistical preference for algorithmic simplicity. CAP provides a framework for understanding how and why an observer (Φ) subjectively navigates this window. This framework is radically subjective, applying to the first-person experience of Φ; global interpretations must be approached with caution due to the antimemetic nature of such profound subjectivity for human cognition.
+The Computational Anthropic Principle (CAP) posits that an observer's subjective experience unfolds within a "Goldilocks Zone" of reality. 
+
+This experiential window is bounded on one side by the necessity for sufficient complexity to support conscious awareness (a consequence of the Weak Anthropic Principle) and on the other by the universe's inherent statistical preference for algorithmic simplicity. This creates a dual filtering mechanism where consciousness necessarily exists in the narrow band between two exponential exclusions: the lower bound eliminates universes too simple for consciousness, while the upper bound eliminates baroque, high-complexity universes exponentially suppressed by 1/C weighting.
+
+CAP provides a framework for understanding how and why an observer (Φ) subjectively navigates this window. This framework is radically subjective, applying to the first-person experience of Φ. Therefore, gobal interpretations are invalid.
 
 ## 1. Foundational Postulates
 
