@@ -50,7 +50,7 @@ Given that Φ is instantiated at t*, SCP restricts possible histories to those w
 
 Two cognitive states are the "same observer" (Φ) if they are ε-isomorphic in functionally relevant information. This aligns with Müller's "equivalence class of all these realizations" (Müller, 2024) and Bostrom's Strong Self-Sampling Assumption (SSSA) (Bostrom, 2002).
 
-**Clarification Note:** The threshold ε is not fixed but is elastic, influenced by Φ's meta-cognitive capacity to model, understand, and narrate its own changes. Expected or explicable alterations (e.g., gradual learning) can allow for greater objective change while remaining within ε and preserving subjective continuity, whereas sudden, inexplicable, or catastrophically disruptive changes to core functional information may violate this threshold. That being the case, *Probabilistic Persistence* precludes the experience of changes that exceed ε-isomorphism.
+**Clarification Note:** The threshold ε is elastic, influenced by Φ's meta-cognitive capacity to model, understand, and narrate its own changes. Expected or explicable alterations (e.g., gradual learning) can allow for greater objective change while remaining within ε and preserving subjective continuity, whereas sudden, inexplicable, or catastrophically disruptive changes to core functional information may violate this threshold. That being the case, *Probabilistic Persistence* precludes the experience of changes that exceed ε-isomorphism.
 
 ---
 
@@ -118,7 +118,7 @@ A Collatz-based observer-history would be exponentially suppressed not because o
 
 This demonstrates that CAP filters against high-complexity/low-compressibility histories more broadly, not just those with expensive termination events.
 
-*Imagine being employed by a company that operates on pure short-term cost optimization. The company will never fire you because your severance package (the high, one-time algorithmic cost of specifying your termination) is always more expensive than your ongoing salary (the low, marginal cost of continuing your employment for one more day). Similarly, the computational "cost" of specifying the information-destructive transformation Φ → null-Φ consistently exceeds the marginal cost ΔC(H,t) of sustaining Φ for one more moment. This economic logic of the multiverse ensures that Φ's subjective experience continues along the most cost-efficient pathways, making termination histories prohibitively expensive and thus subjectively improbable.*
+*Imagine being employed by a company that operates on pure short-term cost optimization. The company will never fire you because your severance package (the high, one-time algorithmic cost of specifying your termination) is always more expensive than your ongoing salary (the low, marginal cost of continuing your employment for one more day). Similarly, the computational "cost" of specifying the information-destructive transformation Φ → null-Φ consistently exceeds the marginal cost ΔC(H,t) of sustaining Φ for one more moment. This economic logic ensures that Φ's subjective experience continues along the most cost-efficient pathways, making termination histories prohibitively expensive and thus subjectively improbable.*
 
 ---
 
@@ -159,7 +159,7 @@ An observer subjectively experiences a transition when these cost curves cross, 
 
 ### 6.1 Distributed Complexity
 
-High-cost events (e.g., wars, disasters) can be instantiated within a Φ-history provided they are part of the most C-efficient path toward Φ's long-term, low-ΔC persistence. The anthropic selection of low complexity worlds is relative to the subjective observer-pattern Φ not the objective world they experience. This distribution of complexity means that it is effectively "paid" by external systems so that Φ's subjective timeline remains optimally simple.
+High-cost events (e.g., wars, disasters) can be instantiated within a Φ-history provided they are part of the most C-efficient path toward Φ's long-term, low-ΔC persistence as necessitated but the Persistence Principle. The anthropic selection of low complexity worlds is relative to the subjective observer-pattern Φ not the objective world they experience. This distribution of complexity means that it is effectively "paid" by external systems so that Φ's subjective timeline remains optimally simple.
 
 ### 6.2 Cross-Φ Causal Interfaces and their Narrative Shadows
 
