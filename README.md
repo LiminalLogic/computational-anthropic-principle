@@ -50,7 +50,7 @@ Given that Φ is instantiated at t*, SCP restricts possible histories to those w
 
 Two cognitive states are the "same observer" (Φ) if they are ε-isomorphic in functionally relevant information. This aligns with Müller's "equivalence class of all these realizations" (Müller, 2024) and Bostrom's Strong Self-Sampling Assumption (SSSA) (Bostrom, 2002).
 
-**Clarification Note:** The threshold ε  is elastic, influenced by Φ's meta-cognitive capacity to model, understand, and narrate its own changes. Expected or explicable alterations (e.g., gradual learning) can allow for greater objective change while remaining within ε and preserving subjective continuity, whereas sudden, inexplicable, or catastrophically disruptive changes to core functional information may violate this threshold. That being the case, *Probabilistic Persistence* precludes the experience of changes that exceed ε-isomorphism.
+**Clarification Note:** The threshold ε is not fixed but is elastic, influenced by Φ's meta-cognitive capacity to model, understand, and narrate its own changes. Expected or explicable alterations (e.g., gradual learning) can allow for greater objective change while remaining within ε and preserving subjective continuity, whereas sudden, inexplicable, or catastrophically disruptive changes to core functional information may violate this threshold. That being the case, *Probabilistic Persistence* precludes the experience of changes that exceed ε-isomorphism.
 
 ---
 
@@ -94,7 +94,31 @@ Though termination of a complex pattern is a move towards thermodynamic equilibr
 
 For the same reason, this filters out scenarios like the spontaneous formation of a Boltzmann Brain, a conclusion supported by Tegmark (2014), Müller (2024), and Bostrom's (2002) refutation of "freak observer" scenarios.
 
-*Imagine being employed by a company that operates on pure short-term cost optimization. The company will never fire you because your severance package (the high, one-time algorithmic cost of specifying your termination) is always more expensive than your ongoing salary (the low, marginal cost of continuing your employment for one more day). Similarly, the computational "cost" of specifying the information-destructive transformation Φ → null-Φ consistently exceeds the marginal cost ΔC(H,t) of sustaining Φ for one more moment. This economic logic ensures that Φ's subjective experience continues along the most cost-efficient pathways, making termination histories prohibitively expensive and thus subjectively improbable.*
+**Toy Model: The "101" Observer**
+
+Consider a simple observer-pattern Φ represented by the repeating string "101". At time t=10, the history H is:
+`"101101101101101101101101101101"`
+
+This history has very low complexity C(H,10), requiring only the simple program: `PRINT "101" 10 times`.
+
+If this pattern continues to t=11, the marginal cost ΔC is minimal—the same program with a trivial increment. However, if Φ terminates (represented by state "000"), the history becomes:
+`"101101101101101101101101101101000"`
+
+This broken pattern requires a fundamentally different, more complex program: `PRINT "101" 10 times, THEN PRINT "000"`. The critical word "THEN" represents the algorithmic cost of specifying the termination event—analogous to the "severance package" in our employment metaphor.
+
+By the 2⁻ᶜ⁽ᴴ,ᵗ⁾ weighting, this termination history is exponentially less probable than the continuation history, making the subjective experience of termination vanishingly unlikely.
+
+**Beyond Termination: The Collatz Conjecture Case**
+
+It's important to note that the CAP Weighting Theorem doesn't exclusively suppress termination events—it suppresses all high-complexity histories. Consider an observer-pattern following the Collatz conjecture: starting from some number n, apply the rule "if even, divide by 2; if odd, multiply by 3 and add 1" until reaching 1.
+
+For most starting values, this produces a chaotic, seemingly random sequence before termination. Unlike our "101" example, there would be no complexity spike at the moment of termination—the program simply stops when it reaches 1. However, the entire history leading up to that termination would have extremely high Kolmogorov complexity due to its incompressible, chaotic nature.
+
+A Collatz-based observer-history would be exponentially suppressed not because of termination complexity, but because of the cumulative complexity cost C(H,t) throughout its entire trajectory. The 2⁻ᶜ⁽ᴴ,ᵗ⁾ weighting applies continuously—chaotic, incompressible histories are exponentially less probable to be subjectively experienced than regular, compressible ones, regardless of how they end.
+
+This demonstrates that CAP filters against high-complexity/low-compressibility histories more broadly, not just those with expensive termination events.
+
+*Imagine being employed by a company that operates on pure short-term cost optimization. The company will never fire you because your severance package (the high, one-time algorithmic cost of specifying your termination) is always more expensive than your ongoing salary (the low, marginal cost of continuing your employment for one more day). Similarly, the computational "cost" of specifying the information-destructive transformation Φ → null-Φ consistently exceeds the marginal cost ΔC(H,t) of sustaining Φ for one more moment. This economic logic of the multiverse ensures that Φ's subjective experience continues along the most cost-efficient pathways, making termination histories prohibitively expensive and thus subjectively improbable.*
 
 ---
 
@@ -102,9 +126,9 @@ For the same reason, this filters out scenarios like the spontaneous formation o
 
 ### 5.1 The Anthropic Hinge Principle
 
-The CAP Weighting Theorem (P ∝ 1/C(H,t)) predicts that the subjective "now" of an observer (Φ) will be located, with overwhelming probability, at or very near the earliest point in its history where the cumulative complexity cost, C(H,t), required to access a path to long-term, low-ΔC persistence is minimized. This moment constitutes an Anthropic Hinge.
+The CAP Weighting Theorem (P ∝ 2⁻ᶜ⁽ᴴ,ᵗ⁾) predicts that the subjective "now" of an observer (Φ) will be located, with overwhelming probability, at or very near the earliest point in its history where the cumulative complexity cost, C(H,t), required to access a path to long-term, low-ΔC persistence is minimized. This moment constitutes an Anthropic Hinge.
 
-This is not a psychological effect, but a computational filtering effect. Consider two potential histories:
+This is not a psychological effect, but a computational filtering effect. Consider two potential histories for an observer originating on a planet like Earth:
 
 1. **A history where Φ's "now" is in the 19th century.** For Φ to achieve long-term persistence from this point would require the invention of modern medicine, global communication, computing, and artificial intelligence—an astronomically high future complexity cost, leading to a prohibitively high total C(H,t) for that observer-history.
 
@@ -135,7 +159,7 @@ An observer subjectively experiences a transition when these cost curves cross, 
 
 ### 6.1 Distributed Complexity
 
-High-cost events (e.g., wars, disasters) can be instantiated within a Φ-history provided they are part of the most C-efficient path toward Φ's long-term, low-ΔC persistence as necessitated but the Persistence Principle. The anthropic selection of low complexity worlds is relative to the subjective observer-pattern Φ not the objective world they experience. This distribution of complexity means that it is effectively "paid" by external systems so that Φ's subjective timeline remains optimally simple.
+High-cost events (e.g., wars, disasters) can be instantiated within a Φ-history provided they are part of the most C-efficient path toward Φ's long-term, low-ΔC persistence. The anthropic selection of low complexity worlds is relative to the subjective observer-pattern Φ not the objective world they experience. This distribution of complexity means that it is effectively "paid" by external systems so that Φ's subjective timeline remains optimally simple.
 
 ### 6.2 Cross-Φ Causal Interfaces and their Narrative Shadows
 
@@ -151,11 +175,11 @@ This evokes Plato's Allegory of the Cave, where prisoners mistake shadows on a w
 
 ## Appendix: Comparison with Quantum Immortality
 
-**Measure of Likelihood:** QI lacks a coherent measure. CAP's 1/C weighting explains why we are in stable, simple histories, not high-cost ones—a conclusion supported by Tegmark (2008), Müller (2024), and Hutter (2010).
+**Measure of Likelihood:** QI lacks a coherent measure. CAP's 2⁻ᶜ weighting provides a rigorous probability distribution over histories, explaining why we are in stable, algorithmically simple histories rather than high-complexity ones—a conclusion supported by Tegmark (2008), Müller (2024), and Hutter (2010).
 
 **Ontological Framework:** QI often implies a dualistic "consciousness." CAP's monism, supported by the view of the observer as a "standalone informational pattern" (Müller, 2024), is more parsimonious.
 
-**Explanatory Power & Applicability:** As Tegmark argues, the idealized quantum suicide experiment fails because "dying isn't a binary thing" (Tegmark, 2014). Bostrom's 'Quantum Joe' thought experiment illustrates the split between objective and subjective probability (Bostrom, 2002). CAP refines this by asserting that while an observer only exists on survival branches (QC/SCP), the character of that branch is determined by the 1/C weighting, disfavoring bizarre, high-cost survival scenarios.
+**Explanatory Power & Applicability:** As Tegmark argues, the idealized quantum suicide experiment fails because "dying isn't a binary thing" (Tegmark, 2014). Bostrom's 'Quantum Joe' thought experiment illustrates the split between objective and subjective probability (Bostrom, 2002). CAP refines this by asserting that while an observer only exists on survival branches (QC/SCP), the character of that branch is determined by the 2⁻ᶜ weighting, exponentially disfavoring bizarre, high-complexity survival scenarios.
 
 ---
 
