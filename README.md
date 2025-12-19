@@ -1,4 +1,3 @@
-82% of storage used … If you run out, you can't create, edit and upload files.
 The Computational Anthropic Principle:
 The Subjective Window of Existence
 
